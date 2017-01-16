@@ -1,0 +1,14 @@
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+table {
+	width:50%;
+	border : solid 2px #E6E6E6;
+ }
+
+td { 
+	width:50%;
+	border : solid 2px #E6E6E6;	
+}
